@@ -13,7 +13,13 @@ import Deals from "./Deals";
 import Features from "./Features";
 import GetApp from "./GetApp";
 import Breadcrumbs from "./Breadcrumbs";
+import FilterBtn from "./FilterBtn";
+import FilterBtnCard from "./FilterBtnCard";
 import Subscribe from "./Subscribe";
+import CheapHotelsBtn from "./CheapHotelsBtn";
+import LeftPanel from "./LeftPanel";
+import RightPanel from "./RightPanel";
+import RangeSlider from "./RangeSlider";
 
 export {
   Navbar,
@@ -31,5 +37,11 @@ export {
   GetApp,
   Breadcrumbs,
   Subscribe,
+  FilterBtn,
+  FilterBtnCard,
+  CheapHotelsBtn,
+  LeftPanel,
+  RightPanel,
+  RangeSlider,
   Footer,
 };

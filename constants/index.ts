@@ -119,3 +119,18 @@ export const endpoints = [
   { hotels: "11", state: "Yobe", reviews: "no" },
   { hotels: "28", state: "Zamfara", reviews: "10" },
 ];
+
+export const filterBtnData = [
+  { icon: "stat", name: "Our Top Picks" },
+  { icon: "luxury", name: "Luxury Hotels" },
+  { icon: "cheap", name: "Cheap Hotels" },
+  { icon: "best", name: "Best Hotels" },
+  { icon: "popular", name: "Most Popular" },
+];
+
+export const areas = [
+  { place: "Ikeja" },
+  { place: "Lekki" },
+  { place: "Victoria Island" },
+  { place: "Ikoyi" },
+];

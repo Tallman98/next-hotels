@@ -33,3 +33,13 @@ export interface BookCardProps {
 export interface PageProps {
   params: { city: string };
 }
+export interface FilterCardProps {
+  icon: string;
+  name: string;
+  active: boolean;
+  onClick: () => void;
+}
+
+export interface AreaProps {
+  place: string;
+}
