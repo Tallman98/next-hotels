@@ -20,6 +20,7 @@ import CheapHotelsBtn from "./CheapHotelsBtn";
 import LeftPanel from "./LeftPanel";
 import RightPanel from "./RightPanel";
 import RangeSlider from "./RangeSlider";
+import CheckboxComponent from "./CheckboxComponent";
 
 export {
   Navbar,
@@ -43,5 +44,6 @@ export {
   LeftPanel,
   RightPanel,
   RangeSlider,
+  CheckboxComponent,
   Footer,
 };
